@@ -1,4 +1,4 @@
-Proof-of-concept code for backrunning private transaction using MPC. This repository contains the code and instructions on how to run it. Please find the background information on https://writings.flashbots.net/.
+Proof-of-concept code for backrunning private transaction using MPC. This repository contains the code and instructions on how to run it. Please find the background information on https://writings.flashbots.net/backrunning-private-txs-MPC.
 
 * Clone MP-SPDZ repository:
 ```
